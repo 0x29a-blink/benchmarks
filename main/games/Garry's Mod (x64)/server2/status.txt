@@ -2,11 +2,10 @@
 hostname: Stellar Surf | Competitive Skill Surf Server
 version : 2022.06.08/24 8607 secure
 udp/ip  : 74.91.119.62:27015  (public ip: 74.91.119.62)
-map     : surf_misc at: 0 x, 0 y, 0 z
-players : 4 (20 max)
+map     : surf_globalchaos at: 0 x, 0 y, 0 z
+players : 3 (20 max)
 
 # userid name                uniqueid            connected ping loss state
-#    177 "Normal: xRossFromFriends" BOT                              active
-#    178 "Wicked: Sang"      BOT                                     active
-#    165 "junior <3"         STEAM_0:0:99051468   2:19:56    66    0 active
-#    181 "DCLXVI"            STEAM_0:1:159486876 02:14       61    0 active
+#     66 "Normal: Aart"      BOT                                     active
+#     67 "Bonus: 17 gigabyte hard drive" BOT                         active
+#     68 "DCLXVI"            STEAM_0:1:159486876 03:32       64    0 active

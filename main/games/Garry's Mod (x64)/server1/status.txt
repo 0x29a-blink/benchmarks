@@ -1,102 +1,97 @@
-] status
-hostname: 🔥Smokes.gg #1 Custom|Bitcoin|Air Drops|Skills|Crafting|Drugs
+] status 
+hostname: ◕‿◕ TitsRP│XMAS│FastDL│High FPS│Custom
 version : 2022.06.08/24 8607 secure
-udp/ip  : 0.0.0.0:27015  (public ip: 205.178.177.5)
-map     : rp_downtown_tits_v2 at: 0 x, 0 y, 0 z
-players : 94 (128 max)
+udp/ip  : 0.0.0.0:27015  (public ip: 148.59.74.119)
+map     : rp_downtown_tits_v2_xmas at: 0 x, 0 y, 0 z
+players : 89 (128 max)
 
 # userid name                uniqueid            connected ping loss state
-#    970 "DCLXVI"            STEAM_0:1:159486876 04:41      218    0 active
-#    863 "Smokes.gg \(+_+}/" STEAM_0:1:110415294  2:19:33   423    0 active
-#    914 "¿"                STEAM_0:1:525689981  1:14:23   194    0 active
-#    813 "Egg"               STEAM_0:1:175781274  3:15:51   207    0 active
-#    874 "ENVY"              STEAM_0:1:222904661  2:04:36   380    0 active
-#    830 "Yamkovoy"          STEAM_0:1:45515193   2:57:20   338    0 active
-#    638 "Get_Left"          STEAM_0:1:165523024  6:21:19   198    0 active
-#      9 "тαтι"          STEAM_0:0:104744421 17:04:53   202    0 active
-#     83 "glenn"             STEAM_0:1:78680675  16:45:02   293    0 active
-#    809 "LandoBando"        STEAM_0:0:722719331  3:21:13   205    0 active
-#    933 "D3"                STEAM_0:1:556907951 57:11      376    0 active
-#    531 "[BoW] King Hamish IV" STEAM_0:1:43672521  8:05:53  270    0 active
-#     15 "Saul Goodman"      STEAM_0:0:600648945 17:01:58   189    0 active
-#    971 "Re - Tanjō"       STEAM_0:1:85100947  03:21     1114    0 active
-#    835 "Hollywood"         STEAM_0:0:67238842   2:50:32   203    0 active
-#    387 "FearTheReaper"     STEAM_0:0:516266778 10:04:32   210    0 active
-#    500 "ϟzrp"             STEAM_0:1:105616362  8:35:05   223    0 active
-#    388 "Turner ♔"        STEAM_0:0:516403150 10:04:24   218    0 active
-#    541 "tax frud"          STEAM_0:1:584751737  7:58:24   334    0 active
-#    935 "GDS"               STEAM_0:1:54295749  56:22      245    0 active
-#    928 "Australopithecus"  STEAM_0:1:45064572   1:07:38   267    0 active
-#    372 "NECEROS"           STEAM_0:0:16582195  10:16:57   216    0 active
-#    852 "[AC]3itx"          STEAM_0:1:522551017  2:31:21   204    0 active
-#    831 "Poob"              STEAM_0:1:529042182  2:55:43   196    0 active
-#    893 "imawindowlicker"   STEAM_0:1:196517053  1:40:39   198    0 active
-#     29 "charles"           STEAM_0:1:175196804 17:01:53   190    0 active
-#    829 "ANB626 GK07"       STEAM_0:1:92612066   2:59:17   239    0 active
-#    672 "NReinhartR"        STEAM_0:1:59571254   5:42:17   213    0 active
-#    389 "v0ka"              STEAM_0:0:516286559 10:04:14   225    0 active
-#     33 "SpaceCrow8260 - TTV -" STEAM_0:1:98306694 17:01:48  178    0 active
-#    278 "Big Toska"         STEAM_0:1:419326945 11:54:31   217    2 active
-#    948 "ImOnly75"          STEAM_0:1:425386113 41:51      390    0 active
-#    461 "ViteX"             STEAM_0:0:516980226  9:14:02   219    0 active
-#    906 "Masked Up Kodak"   STEAM_0:0:59870492   1:28:07   215    0 active
-#    836 "Sanguinar"         STEAM_0:0:106227229  2:50:20   218    0 active
-#    390 "BigL"              STEAM_0:1:516526444 10:04:07   217    0 active
-#    892 "Moe"               STEAM_0:1:460813089  1:41:13   405    0 active
-#    931 "MySecretCow"       STEAM_0:1:40152260   1:04:09   385    0 active
-#    878 "Ego"               STEAM_0:0:508726112  1:55:13   206    0 active
-#    610 "🐍𝒥𝒶𝓀𝑒🐍" STEAM_0:0:444167240  6:51:45  224    0 active
-#    837 "gabe1067"          STEAM_0:1:28445677   2:49:42   222    0 active
-#    573 "tylerthebully"     STEAM_0:1:50363497   7:28:36   195    0 active
-#    842 "◦Smokes.gg◦{вмс}⦂laos" STEAM_0:0:38950538  2:47:04  229    0 active
-#    966 "Mushroom Buddy"    STEAM_0:0:172842469 14:32      217    0 active
-#     48 "Jesse Pinkman"     STEAM_0:1:531323719 17:01:39   137    0 active
-#    951 "Lurduno"           STEAM_0:1:634539857 31:16      390    0 active
-#    962 "Evulsion"          STEAM_0:1:81921599  21:24      209    0 active
-#    551 "Skyfire1355"       STEAM_0:1:146658528  7:47:11   237    0 active
-#    493 "Fishinabarrel"     STEAM_0:0:50289387   8:44:56   237    0 active
-#     53 "Smokes.gg Chair"   STEAM_0:0:526519294 17:01:38   216    0 active
-#    683 "pricegaming210"    STEAM_0:1:196673852  5:29:07   194    0 active
-#    882 "}I{ shiestyy"      STEAM_0:0:731397224  1:51:16   374    0 active
-#    946 "Local"             STEAM_0:1:119397132 45:36      256    0 active
-#    952 "Obi Nig Kenobi"    STEAM_0:0:85960716  31:08      208    0 active
-#    865 "Oblivion"          STEAM_0:0:103479506  2:16:56   206    0 active
-#    421 "Oxy"               STEAM_0:0:517286635  9:41:40   229    0 active
-#    973 "2nd_ree_kid"       STEAM_0:1:525011518 02:28      220    0 active
-#    518 "talonm2010"        STEAM_0:0:547198370  8:20:19   220    0 active
-#    974 "SteelWing"         STEAM_0:1:10272488  00:52      237    0 spawning
-#    803 "Quavious Bingle"   STEAM_0:0:197013985  3:34:59   208    0 active
-#    884 "krenzie"           STEAM_0:1:171352964  1:48:45   386    0 active
-#    954 "Paegin"            STEAM_0:0:84376044  27:50      220    0 active
-#    769 "T-Pose"            STEAM_0:1:85952910   4:15:10   225    0 active
-#    894 "Harley_Rider1976"  STEAM_0:1:197049255  1:38:18   218    0 active
-#    770 "Florida Man"       STEAM_0:1:420250162  4:15:02   203    0 active
-#    939 "Mr. ImDaBomb"      STEAM_0:1:233626131 54:21      382    0 active
-#    964 "1 tapped the GoDs" STEAM_0:1:425250515 19:01      380    0 active
-#    807 "euphraxy ♡"      STEAM_0:1:102747917  3:29:36   378    0 active
-#    799 "Palpapenis"        STEAM_0:0:197632666  3:41:22   212    0 active
-#    602 "HuNNa"             STEAM_0:1:245498298  7:00:49   201    0 active
-#    896 "Mr. Defuse"        STEAM_0:1:175068477  1:37:46   380    0 active
-#    688 "American Butter"   STEAM_0:0:122362500  5:26:25   202    0 active
-#    969 "BleachingBob"      STEAM_0:0:128338278 12:08      259    0 active
-#    595 "JuicyTwT"          STEAM_0:0:592923044  7:06:48   209    0 active
-#    722 "Lucki"             STEAM_0:1:738767689  4:55:24   215    0 active
-#    418 "Sp1cy"             STEAM_0:0:523873312  9:42:20   229    0 active
-#    280 "RasPutin"          STEAM_0:0:560270404 11:51:29   350    0 active
-#    273 "Redman"            STEAM_0:0:184411278 12:00:32   196    0 active
-#    902 "RYRY"              STEAM_0:0:186485678  1:32:52   224    0 active
-#    298 "ATK Sleez"         STEAM_0:1:60072261  11:32:34   269    0 active
-#    929 "fatlard"           STEAM_0:1:214644209  1:07:05   216    0 active
-#    904 "Youngboy Better"   STEAM_0:1:80775777   1:31:58   207    0 active
-#    747 "Raidyn"            STEAM_0:0:51243498   4:32:38   195    0 active
-#    245 "Diddle"            STEAM_0:1:106498829 12:32:03   239    0 active
-#    855 "Gawiner"           STEAM_0:1:122649170  2:29:18   252    0 active
-#    508 "SupaZombyKilla2"   STEAM_0:1:84616240   8:31:06   225    0 active
-#    315 "jus chillen"       STEAM_0:0:153569204 11:19:25   231    0 active
-#    759 "Aruko Banditcamp.com" STEAM_0:0:419494475  4:23:45  217    0 active
-#    607 "Lebon jam fr fr"   STEAM_0:1:539954394  6:58:44   238    0 active
-#    632 "caleun"            STEAM_0:1:206227555  6:33:47   385    0 active
-#    709 "Cali^"             STEAM_0:0:454154294  5:08:16   239    0 active
-#    423 "Noti"              STEAM_0:1:516629916  9:41:24   236    0 active
-#    425 "spooky"            STEAM_0:0:223765329  9:41:22   307    0 active
-#    442 "quixx"             STEAM_0:1:517300962  9:29:39   232    0 active
+#    756 "LowTierGod"        STEAM_0:0:505738901 00:30      189    0 spawning
+#    688 "Keian"             STEAM_0:0:156747453  1:14:23   248    0 active
+#    726 "StrandedOdin780"   STEAM_0:0:429620414 26:49      251    0 active
+#    204 "COUSIN"            STEAM_0:1:129394337  8:18:13   198    0 active
+#    747 "Salsaa"            STEAM_0:1:163425067 08:16      256    0 active
+#    743 "WhiskeyYT"         STEAM_0:1:68080003  10:10      218    0 active
+#    386 "etho414"           STEAM_0:0:184119524  5:04:30   248    0 active
+#     13 "Meep"              STEAM_0:0:80654838  15:26:44   215    0 active
+#    705 "bone."             STEAM_0:1:85380201  42:27      247    0 active
+#    656 "mc_sway"           STEAM_0:1:77722292   1:35:29   187    0 active
+#    750 "Formaggi"          STEAM_0:0:40397364  04:57      331    0 active
+#    715 "baylzz"            STEAM_0:0:619996708 35:34      217    0 active
+#    117 "HungryNomad"       STEAM_0:1:40737788  10:32:33   255    0 active
+#    748 "girth man"         STEAM_0:1:68745579  07:39      189    0 active
+#    278 "Demolition Fox"    STEAM_0:0:180433608  6:49:15   194    0 active
+#    700 "Albino Venom and burger wolf" STEAM_0:1:82863752 52:49  257    0 active
+#    621 "Coconut Overflow"  STEAM_0:0:40538905   2:04:00   258    0 active
+#    722 "b3nz"              STEAM_0:1:225582669 30:40      199    0 active
+#    744 "Dan Hunter"        STEAM_0:0:39789095  09:39      253    0 active
+#    677 "redsamlikebread"   STEAM_0:1:615080191  1:21:58   187    0 active
+#    661 "v"                 STEAM_0:0:513544169  1:33:05   250    0 active
+#    115 "»jaybento"        STEAM_0:1:25973043  10:36:58   258    0 active
+#    632 "Walmart's strongest customer" STEAM_0:0:168151417  1:53:57  255    0 active
+#    721 "Nocturnal Grave Desecrator" STEAM_0:0:75732529 32:24  246    0 active
+#    723 "123"               STEAM_0:1:49358072  29:32      251    0 active
+#    724 "Mal"               STEAM_0:1:178608761 28:57      352    0 active
+#    175 "Shifty"            STEAM_0:1:634610919  8:52:56   202    0 active
+#    751 "i have a massive erection" STEAM_0:0:139191438 03:29  229    0 active
+#    566 "sShocked"          STEAM_0:0:731395314  2:58:06   196    0 active
+#    627 "q Zushi p"         STEAM_0:0:433766099  1:59:44   253    0 active
+#    725 "sam"               STEAM_0:1:148547005 27:06      368    0 active
+#    736 "yoshi bob"         STEAM_0:0:243934920 16:35      335    0 active
+#    737 "minion"            STEAM_0:1:461719973 15:56      187    0 active
+#    263 "Killspree"         STEAM_0:1:128469915  7:06:48   199    0 active
+#    623 "WantedNearby"      STEAM_0:1:60039432   2:02:36   252    0 active
+#    112 "Troy"              STEAM_0:0:53861186  10:41:48   267    0 active
+#    728 "ProvingBeatle16"   STEAM_0:1:418548389 24:50      187    0 active
+#    694 "trACE"             STEAM_0:0:101354399  1:03:23   250    0 active
+#    157 "Dad"               STEAM_0:1:42999674   9:19:52   238    0 active
+#    733 "mischievous man"   STEAM_0:1:95534300  20:37      250    0 active
+#    727 "GirthySquid"       STEAM_0:1:168340646 26:11      193    0 active
+#    490 "cal-johnson-s-jr-_1959@yahoo.com" STEAM_0:1:53866786  3:49:36  195    0 active
+#    519 "queso baby"        STEAM_0:0:435125692  3:31:40   193    0 active
+#    556 "Bruhther"          STEAM_0:0:448893485  3:04:38   263    0 active
+#    589 "Bonk"              STEAM_0:0:448254307  2:36:08   321    0 active
+#    745 "DiverDown"         STEAM_0:0:84953742  08:46      250    0 active
+#    707 "StPlanet"          STEAM_0:0:69182410  41:01      190    0 active
+#    731 "that one fool"     STEAM_0:0:203387841 22:06      307    0 active
+#    638 "GamesFraser"       STEAM_0:0:197326719  1:45:33   187    0 active
+#    678 "Stolz Velk.ca"     STEAM_0:1:43790420   1:21:40   217    0 active
+#    680 "bigmomma"          STEAM_0:0:56336488   1:20:48   320    0 active
+#    395 "Smelly"            STEAM_0:0:79747206   4:59:18   254    0 active
+#    615 "TheDudeAbides"     STEAM_0:0:94811797   2:10:05   239    0 active
+#    343 "churger"           STEAM_0:1:63961575   5:43:06   250    0 active
+#    718 "[Ab!]Ab!zaga"      STEAM_0:1:12159009  33:31      228    0 active
+#    741 "SteelWing"         STEAM_0:1:10272488  14:19      250    0 active
+#    410 "Burninelmo velk.ca" STEAM_0:1:243765117  4:47:02  379    0 active
+#    755 "Heisenburg"        STEAM_0:0:443870662 01:57      430    2 spawning
+#    696 "Goro Meningitis"   STEAM_0:0:61587573   1:01:36   259    0 active
+#    752 "DommiUwU"          STEAM_0:0:158662834 03:10      618    2 spawning
+#    754 "DCLXVI"            STEAM_0:1:159486876 02:14      240    0 active
+#    732 "guna(s)"           STEAM_0:0:168524604 20:56      260    0 active
+#    753 "Quantum"           STEAM_0:0:96665072  02:46      371    0 spawning
+#    429 "Bandit"            STEAM_0:0:3763164    4:32:50   190    0 active
+#    746 "jmaze5716"         STEAM_0:1:741194293 08:41      251    0 active
+#    494 "Pusherman"         STEAM_0:1:26178732   3:48:14   261    0 active
+#    347 "Frisco"            STEAM_0:0:156203034  5:41:27   216    0 active
+#    668 "Mr.yamomsfav"      STEAM_0:0:183551715  1:27:24   256    0 active
+#    436 "AhRmAzZz"          STEAM_0:1:511583492  4:26:20   383    0 active
+#    740 "J522"              STEAM_0:1:66063221  15:17      229    0 active
+#    742 "Dingulon"          STEAM_0:1:159091067 12:39      253    0 active
+#    664 "poopoo"            STEAM_0:1:116802397  1:29:09   248    0 active
+#    749 "AnimeVibe"         STEAM_0:0:154136009 07:30      191    0 active
+#    574 "FAPGOD"            STEAM_0:1:507339894  2:47:40   198    0 active
+#    596 "xupxup051"         STEAM_0:0:559548730  2:29:09   226    0 active
+#    351 "jrdn"              STEAM_0:0:42785168   5:38:37   238    0 active
+#    438 "Paycheck Wolf"     STEAM_0:1:93399178   4:25:19   220    0 active
+#    459 "1-800-Suicide"     STEAM_0:0:61391449   4:11:26   320    0 active
+#    679 "Uncle Festus"      STEAM_0:1:155869898  1:21:07   193    0 active
+#    497 "Rethaw"            STEAM_0:1:105072049  3:46:58   188    0 active
+#    460 "blue"              STEAM_0:1:629260766  4:10:42   200    0 active
+#    681 "Animal Collectivio Man" STEAM_0:1:91878236  1:19:33  259    0 active
+#    639 "Seffy"             STEAM_0:1:161022117  1:45:30   206    0 active
+#    505 "Amixon"            STEAM_0:1:119349127  3:41:50   256    0 active
+#    646 "V4sh"              STEAM_0:1:18892465   1:40:28   264    0 active
+#    647 "West"              STEAM_0:1:117043222  1:40:23   194    0 active
+#    684 "Snowy"             STEAM_0:1:210812061  1:18:14   255    0 active
+#    685 "Spice Mouse"       STEAM_0:1:76620987   1:16:58   189    0 active
+#    673 "IM_THE_DANGER"     STEAM_0:1:199476989  1:23:55   250    0 active
