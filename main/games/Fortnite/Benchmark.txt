@@ -1,0 +1,23 @@
+random benchmark during a screenshare.
+09-12-2022, 01:28:48 FortniteClient-Win64-Shipping.exe benchmark completed, 49521 frames rendered in 868.562 s
+                     Average framerate  :   57.0 FPS
+                     Minimum framerate  :    0.3 FPS
+                     Maximum framerate  :  462.9 FPS
+                     1% low framerate   :    5.0 FPS
+                     0.1% low framerate :    0.3 FPS
+
+Recording Start
+09-12-2022, 01:46:09 FortniteClient-Win64-Shipping.exe benchmark completed, 58780 frames rendered in 1004.844 s
+                     Average framerate  :   58.4 FPS
+                     Minimum framerate  :    0.3 FPS
+                     Maximum framerate  :  653.0 FPS
+                     1% low framerate   :   10.6 FPS
+                     0.1% low framerate :    0.3 FPS
+
+Setting Switch
+09-12-2022, 01:51:48 FortniteClient-Win64-Shipping.exe benchmark completed, 31627 frames rendered in 335.922 s
+                     Average framerate  :   94.1 FPS
+                     Minimum framerate  :   60.3 FPS
+                     Maximum framerate  :  140.6 FPS
+                     1% low framerate   :   18.9 FPS
+                     0.1% low framerate :    9.3 FPS
