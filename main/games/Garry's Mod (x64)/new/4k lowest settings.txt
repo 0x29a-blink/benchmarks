@@ -1,0 +1,6 @@
+10-12-2022, 00:40:34 gmod.exe benchmark completed, 111562 frames rendered in 323.469 s
+                     Average framerate  :  344.8 FPS
+                     Minimum framerate  :  100.8 FPS
+                     Maximum framerate  :  611.7 FPS
+                     1% low framerate   :   82.3 FPS
+                     0.1% low framerate :   36.8 FPS

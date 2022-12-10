@@ -1,0 +1,6 @@
+10-12-2022, 01:17:17 BeamNG.drive.x64.exe benchmark completed, 29401 frames rendered in 303.625 s
+                     Average framerate  :   96.8 FPS
+                     Minimum framerate  :   17.7 FPS
+                     Maximum framerate  :  143.8 FPS
+                     1% low framerate   :    9.5 FPS
+                     0.1% low framerate :    1.6 FPS

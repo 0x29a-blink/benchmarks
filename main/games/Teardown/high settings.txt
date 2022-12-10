@@ -1,0 +1,6 @@
+10-12-2022, 12:08:32 teardown.exe benchmark completed, 28967 frames rendered in 244.562 s
+                     Average framerate  :  118.4 FPS
+                     Minimum framerate  :    0.6 FPS
+                     Maximum framerate  :  239.4 FPS
+                     1% low framerate   :   53.7 FPS
+                     0.1% low framerate :    0.6 FPS
